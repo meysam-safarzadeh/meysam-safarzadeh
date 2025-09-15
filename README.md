@@ -1,6 +1,4 @@
-# 👋 Hi, I’m Meysam  
-
-## 🔥 Featured Project  
+## 🔥 Featured Projects  
 ### **[Multimodal Classification Training Platform](https://github.com/meysam-safarzadeh/multimodal_demo)**
 
 [![stars](https://img.shields.io/github/stars/meysam-safarzadeh/multimodal_demo?style=social)](https://github.com/meysam-safarzadeh/multimodal_demo/stargazers)
